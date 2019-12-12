@@ -1,0 +1,31 @@
+.values {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: bold;
+}
+.values li {
+  border: 2px white solid;
+  color: white;
+  padding: 10px;
+  font-size: 16px;
+}
+
+#create {
+    background-color: yellow;
+}
+#money {
+    background-color: green;
+}
+#logic {
+    background-color: orange;
+}
+#family {
+    background-color: purple;
+}
+#merit {
+    background-color: red;
+}
+.PopThink {
+  width: 70%;
+}

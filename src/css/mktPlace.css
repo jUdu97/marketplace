@@ -1,0 +1,21 @@
+.market_ideas {
+  display: flex;
+  flex-flow: row wrap;
+}
+.idea_sq {
+  height: 150px;
+  width: 220px;
+  background-color: blue;
+  border-color: grey;
+  border-radius: 80px;
+  border-width: 7px;
+  border-style: inset;
+  text-align: center;
+  padding: 5px;
+}
+.idea_sq:hover {
+    opacity: 50%;
+}
+#price {
+    font-weight: bolder;
+}

@@ -1,0 +1,11 @@
+.corporations {
+    display: flex;
+    align-items: space-between;
+
+}
+.sponsors, .partners {
+    text-align: center;
+}
+#title_corp {
+    font-size: 24px;
+}
