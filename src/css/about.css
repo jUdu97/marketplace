@@ -12,19 +12,19 @@
 }
 
 #create {
-    background-color: yellow;
+    background-color: rgb(50, 89, 131);
 }
 #money {
-    background-color: green;
+    background-color: rgb(0, 128, 0);
 }
 #logic {
-    background-color: orange;
+    background-color: rgb(255, 165, 0);
 }
 #family {
-    background-color: purple;
+    background-color: rgb(128, 0, 128);
 }
 #merit {
-    background-color: red;
+    background-color: rgb(255, 0, 0);
 }
 .PopThink {
   width: 70%;

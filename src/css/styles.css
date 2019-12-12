@@ -1,10 +1,7 @@
 .App {
   font-family: sans-serif;
   text-align: center;
-}
-.main_content {
-  position: absolute;
-  top: 70px;
+  background-color: #c2cfff;
 }
 
 h1 {

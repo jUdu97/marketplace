@@ -1,11 +1,12 @@
 .market_ideas {
   display: flex;
   flex-flow: row wrap;
+  justify-content: center;
 }
 .idea_sq {
   height: 150px;
   width: 220px;
-  background-color: blue;
+  background-color: #3954b3;
   border-color: grey;
   border-radius: 80px;
   border-width: 7px;
@@ -14,8 +15,8 @@
   padding: 5px;
 }
 .idea_sq:hover {
-    opacity: 50%;
+  opacity: 50%;
 }
 #price {
-    font-weight: bolder;
+  font-weight: bolder;
 }
