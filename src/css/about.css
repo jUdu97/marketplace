@@ -1,30 +1,46 @@
 .values {
-    list-style-type: none;
-    display: flex;
-    justify-content: space-evenly;
-    font-weight: bold;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+  font-weight: bold;
 }
 .values li {
   border: 2px white solid;
   color: white;
   padding: 10px;
   font-size: 16px;
+  margin-bottom: 25px;
 }
 
 #create {
-    background-color: rgb(50, 89, 131);
+  background-color: rgb(50, 89, 131);
+}
+#create:hover {
+  font-size: 18px;
 }
 #money {
-    background-color: rgb(0, 128, 0);
+  background-color: rgb(0, 128, 0);
+}
+#money:hover {
+  font-size: 18px;
 }
 #logic {
-    background-color: rgb(255, 165, 0);
+  background-color: rgb(255, 165, 0);
+}
+#logic:hover {
+  font-size: 18px;
 }
 #family {
-    background-color: rgb(128, 0, 128);
+  background-color: rgb(128, 0, 128);
+}
+#family:hover {
+  font-size: 18px;
 }
 #merit {
-    background-color: rgb(255, 0, 0);
+  background-color: rgb(255, 0, 0);
+}
+#merit:hover {
+  font-size: 18px;
 }
 .PopThink {
   width: 70%;

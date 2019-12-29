@@ -13,10 +13,15 @@
   border-style: inset;
   text-align: center;
   padding: 5px;
+  margin: 8px;
 }
 .idea_sq:hover {
-  opacity: 50%;
+  opacity: 80%;
+  height: 160px;
+  width: 230px;
+  padding: 7px;
+  font-size: 17px;
 }
 #price {
-  font-weight: bolder;
+  font-weight: bold;
 }

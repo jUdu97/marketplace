@@ -13,7 +13,7 @@ class MainNav extends Component {
         <div>
           <ul id="mktNav">
             <li>
-              <Link to="/home">Home</Link>
+              <Link to="/">Home</Link>
             </li>
             <li>
               <Link to="/about">About</Link>
@@ -29,7 +29,7 @@ class MainNav extends Component {
           <hr />
 
           <Switch>
-            <Route exact path="/home">
+            <Route exact path="/">
               <Home />
             </Route>
             <Route exact path="/about">

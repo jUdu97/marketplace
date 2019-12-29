@@ -1,11 +1,14 @@
 .corporations {
-    display: flex;
-    align-items: space-between;
-
+  display: flex;
+  align-items: space-between;
 }
-.sponsors, .partners {
-    text-align: center;
+.sponsors,
+.partners {
+  text-align: center;
+}
+ul li {
+  text-align: left;
 }
 #title_corp {
-    font-size: 24px;
+  font-size: 24px;
 }
