@@ -16,31 +16,31 @@
   background-color: rgb(50, 89, 131);
 }
 #create:hover {
-  font-size: 18px;
+  font-size: 20px;
 }
 #money {
   background-color: rgb(0, 128, 0);
 }
 #money:hover {
-  font-size: 18px;
+  font-size: 20px;
 }
 #logic {
   background-color: rgb(255, 165, 0);
 }
 #logic:hover {
-  font-size: 18px;
+  font-size: 20px;
 }
 #family {
   background-color: rgb(128, 0, 128);
 }
 #family:hover {
-  font-size: 18px;
+  font-size: 20px;
 }
 #merit {
   background-color: rgb(255, 0, 0);
 }
 #merit:hover {
-  font-size: 18px;
+  font-size: 20px;
 }
 .PopThink {
   width: 70%;

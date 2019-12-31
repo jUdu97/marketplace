@@ -1,3 +1,9 @@
+h1 {
+  margin-top: 38px;
+}
 h2 {
-    font-size: 16px;
+  font-size: 16px;
+}
+.main_body {
+  margin: 15px;
 }
