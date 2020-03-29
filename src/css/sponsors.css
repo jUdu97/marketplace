@@ -1,14 +1,41 @@
 .corporations {
   display: flex;
-  align-items: space-between;
+  align-content: space-around;
+  margin: 0 auto;
 }
 .sponsors,
 .partners {
   text-align: center;
 }
+
+.partners {
+  border-right: solid 1px grey;
+  padding-right: 20px;
+}
+.PopThink {
+  display: flex;
+  flex-flow: column wrap;
+}
 ul li {
-  text-align: left;
+  /* text-align: left; */
+  list-style-type: none;
 }
 #title_corp {
   font-size: 24px;
+}
+
+@media (min-width: 750px) {
+  #title_corp {
+    font-size: 30px;
+  }
+}
+@media (min-width: 950px) {
+  #title_corp {
+    font-size: 34px;
+  }
+}
+@media (min-width: 1200px) {
+  #title_corp {
+    font-size: 40px;
+  }
 }

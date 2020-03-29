@@ -29,7 +29,6 @@ class MainNav extends Component {
             <li>
               <Link to="/sponsors">Sponsors</Link>
             </li>
-
             <ToggleButton />
           </ul>
 

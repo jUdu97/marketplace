@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import PopThink from "./images/popthink_logo.png";
 import "./css/sponsors.css";
 
 class Partners extends Component {
@@ -6,10 +7,10 @@ class Partners extends Component {
     return (
       <div>
         <h1>Sponsors</h1>
-        <p>
+        <h2>
           None of this would even be possible without thanking our corporate
-          partners and sponsors
-        </p>
+          partners and sponsors!
+        </h2>
         <div className="corporations">
           <article className="partners">
             <h3 id="title_corp">Corporate Partners</h3>
@@ -27,16 +28,15 @@ class Partners extends Component {
             <h3 id="title_corp">Sponsors</h3>
             <ul>
               <li>Barrat's Merrit Insurance</li>
-              <li>Kohl's</li>
-              <li>Bank of North America</li>
               <li>Jolly Good Deals Automotive</li>
               <li>Oliver Butter Cream Bakery</li>
-              <li>Plumbleberrii Farms, Inc.</li>
+              <li>Plumbleberrii Farms</li>
               <li>Hermes Basket Credit Union</li>
               <li>Maeker's Cheesy Delights</li>
             </ul>
           </aside>
         </div>
+        <img src={PopThink} alt="PopThink" />
       </div>
     );
   }

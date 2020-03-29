@@ -4,7 +4,7 @@
   justify-content: center;
 }
 .idea_sq {
-  height: 150px;
+  height: 215px;
   width: 220px;
   background-color: #3954b3;
   border-color: grey;
@@ -17,8 +17,8 @@
 }
 .idea_sq:hover {
   opacity: 80%;
-  height: 160px;
-  width: 230px;
+  height: 225px;
+  width: 250px;
   padding: 7px;
   font-size: 17px;
 }
