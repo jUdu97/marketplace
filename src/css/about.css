@@ -15,7 +15,7 @@
   color: white;
   padding: 10px;
   font-size: 16px;
-  margin-bottom: 25px;
+  margin-bottom: 150px;
 }
 
 #create {
@@ -60,14 +60,14 @@
   #logic,
   #family,
   #merit {
-    font-size: 18px;
+    font-size: 22px;
   }
   #create:hover,
   #money:hover,
   #logic:hover,
   #family:hover,
   #merit:hover {
-    font-size: 22px;
+    font-size: 28px;
   }
 }
 @media (min-width: 950px) {
@@ -79,14 +79,14 @@
   #logic,
   #family,
   #merit {
-    font-size: 20px;
+    font-size: 26px;
   }
   #create:hover,
   #money:hover,
   #logic:hover,
   #family:hover,
   #merit:hover {
-    font-size: 24px;
+    font-size: 32px;
   }
 }
 @media (min-width: 1200px) {
@@ -98,13 +98,13 @@
   #logic,
   #family,
   #merit {
-    font-size: 22px;
+    font-size: 30px;
   }
   #create:hover,
   #money:hover,
   #logic:hover,
   #family:hover,
   #merit:hover {
-    font-size: 28px;
+    font-size: 36px;
   }
 }
