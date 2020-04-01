@@ -1,40 +1,39 @@
 .corporations {
   display: flex;
-  align-content: space-around;
-  margin: 0 auto;
+  justify-content: center;
 }
-.sponsors,
-.partners {
-  text-align: center;
+h1 {
+  font-size: 28px;
+}
+#title_corp {
+  font-size: 20px;
 }
 
-.partners {
-  border-right: solid 1px grey;
-  padding-right: 20px;
-}
-.PopThink {
-  display: flex;
-  flex-flow: column wrap;
-}
 ul li {
   list-style-type: none;
 }
-#title_corp {
-  font-size: 24px;
-}
 
 @media (min-width: 750px) {
+  h1 {
+    font-size: 32px;
+  }
   #title_corp {
-    font-size: 30px;
+    font-size: 22px;
   }
 }
 @media (min-width: 950px) {
+  h1 {
+    font-size: 36px;
+  }
   #title_corp {
-    font-size: 34px;
+    font-size: 24px;
   }
 }
 @media (min-width: 1200px) {
-  #title_corp {
+  h1 {
     font-size: 40px;
+  }
+  #title_corp {
+    font-size: 26px;
   }
 }

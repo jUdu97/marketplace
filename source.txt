@@ -2,7 +2,6 @@ https://gist.github.com/jsturgis/3b19447b304616f18657
 https://reacttraining.com/react-router/web/example/basic
 https://create-react-app.dev/docs/adding-images-fonts-and-files/
 
-Video Source: Video by Milan Wulf from Pixabay 
+Video Source: 
 
-https://pixabay.com/videos/supermarket-shopping-shop-retail-20910/
-
+https://www.videvo.net/videvo_files/converted/2014_02/preview/5aday_Rotate_LoopVidevo.mov83363.webm
